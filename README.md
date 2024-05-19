@@ -1,20 +1,75 @@
-# Cryptocurrency Tracker with React JS, Material UI and Chart JS
+# Cryptocurrency Tracker
 
-## [Watch Full Tutorial on Youtube here](https://youtu.be/QA6oTpMZp84)
+A web application to track cryptocurrency prices and market trends using React JS, Material UI, and Chart JS.
 
-[![crypto](https://user-images.githubusercontent.com/51760520/136682357-5d269bb9-0e36-4f26-a468-fb2963dd9468.png)](https://youtu.be/QA6oTpMZp84)
+## Table of Contents
 
-## Demo
-#### Here is a working live demo :  https://crypto-hunter.netlify.app/
+- [About](#about)
+- [Features](#features)
+- [Built With](#built-with)
+- [Getting Started](#getting-started)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contact](#Contact)
 
-## Built with 
+## About
 
-- [React JS](https://reactjs.org/)
-- [Material UI](https://v4.mui.com/)
-- [Chart JS](https://reactchartjs.github.io/react-chartjs-2/#/)
+The Cryptocurrency Tracker allows users to monitor the prices and trends of various cryptocurrencies. It provides real-time data and historical charts for better analysis and understanding of the market.
 
-## Made with ♥ By [Roadside Coder](https://www.youtube.com/channel/UCIPZVAwDGa-A4ZJxCBvXRuQ)
+## Features
 
-[![Piyush Agarwal](https://avatars1.githubusercontent.com/u/51760520?v=3&s=144)](https://github.com/piyush-eon)
+- View current prices of top cryptocurrencies
+- Historical price charts
+- Market trends and analysis
+- Responsive design
 
-MIT © [Piyush Agarwal ](https://github.com/piyush-eon)
+## Built With
+
+- [React JS](https://reactjs.org/) - A JavaScript library for building user interfaces
+- [Material UI](https://v4.mui.com/) - React components for faster and easier web development
+- [Chart JS](https://reactchartjs.github.io/react-chartjs-2/#/) - A simple yet flexible JavaScript charting library
+
+## Getting Started
+
+To get a local copy up and running follow these simple steps.
+
+### Prerequisites
+
+- Node.js and npm installed on your local machine. You can download them from [Node.js](https://nodejs.org/).
+
+### Installation
+
+1. **Clone the repo:**
+
+    ```sh
+    git clone https://github.com/your_username/react-crypto-tracker.git
+    ```
+
+2. **Navigate to the project directory:**
+
+    ```sh
+    cd react-crypto-tracker
+    ```
+
+3. **Install NPM packages:**
+
+    ```sh
+    npm install
+    ```
+
+## Usage
+
+- **Start the development server:**
+
+    ```sh
+    npm start
+    ```
+
+- Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+
+## Contact
+
+Sara Ahmad Malik - sarahahmadmalik55@gmail.com
+LinkedIn - https://www.linkedin.com/in/sara-ahmad-malik-793429257/
